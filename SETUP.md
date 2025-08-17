@@ -21,6 +21,7 @@ cd vapt-methodologies
 Install all required npm modules:
 
 ```sh
+cd src
 npm install
 ```
 
